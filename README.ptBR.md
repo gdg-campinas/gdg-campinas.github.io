@@ -35,7 +35,7 @@ Obtenha a versão mais recente do código no Github utilizando o Git, ou baixe o
 
 ## Contribuições
 
-* Veja [CONTRIBUTING.ptBR.md](CONTRIBUTING.ptBR.md)
+* Veja [CONTRIBUTING](CONTRIBUTING.ptBR.md)
 
 
 ## Licenciamento
